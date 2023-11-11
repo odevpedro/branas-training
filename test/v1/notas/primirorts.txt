@@ -1,0 +1,2 @@
+Calcula segumentos de uma corrida de taxi(uber, 99 etc)
+O código recebe um array de distancias e horários e com base nisso consegue estabelecer as tarifas das corridas 
