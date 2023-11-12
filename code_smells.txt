@@ -1,0 +1,18 @@
+1 - bad name 
+
+calc.ts
+dist
+ds
+linhas em branco
+
+comentários - O códio
+
+variaiveis reteem valores e explicam
+
+É preferivel usar funções nesses casos
+
+extrair métodos
+apagar comentário & código morto
+introduzir variavél explicativa
+
+Importante: simplificar condições
