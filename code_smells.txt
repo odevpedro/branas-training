@@ -15,4 +15,6 @@ extrair métodos
 apagar comentário & código morto
 introduzir variavél explicativa
 
-Importante: simplificar condições
+- Simplificar condições confusas e aninhadas
+    Inverter as condições ou introduzir cláusulas guarda
+    early return
