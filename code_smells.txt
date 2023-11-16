@@ -18,3 +18,5 @@ introduzir variavél explicativa
 - Simplificar condições confusas e aninhadas
     Inverter as condições ou introduzir cláusulas guarda
     early return
+    consolidar condições
+    c
